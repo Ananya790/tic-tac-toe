@@ -1,0 +1,25 @@
+.box{
+    background-color: rgb(0, 0, 0);
+    border:2px solid black;
+    box-shadow: 0px 0px 8px #888;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bold;
+    line-height: 5rem;
+    /* margin-top: auto; */
+    margin:0.5rem;
+}
+
+.x{
+    color: rgb(233, 20, 159);
+}
+
+.o{
+    color:rgb(142, 13, 227);
+}
+
+.box:hover{
+    box-shadow: 0px 0px 15px rgb(0, 0, 0);
+}
